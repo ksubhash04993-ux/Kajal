@@ -1,0 +1,20 @@
+{
+  "name": "subhash-video-downloader",
+  "version": "1.0.0",
+  "description": "Universal video downloader supporting 1000+ websites",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["video", "downloader", "yt-dlp", "youtube", "instagram", "tiktok"],
+  "author": "SubhashCyberSecurity",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
